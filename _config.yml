@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 gems:
   - jekyll-seo-tag
 title: "ノート：心理学史"
-description: "@cosine_135 が公務員試験のために昔作ったノートです。暇があればアップデートしたい。"
+description: "むかし公務員試験のために作ったノートです。暇があればアップデートしたい。"
 twitter:
   username: cosine_135
 defaults:
