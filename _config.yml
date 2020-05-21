@@ -9,4 +9,5 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img/icon.jpg
+      image: 
+          path: /img/icon.jpg
