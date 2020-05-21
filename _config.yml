@@ -2,11 +2,11 @@ theme: jekyll-theme-cayman
 gems:
   - jekyll-seo-tag
 title: ノート：心理学史
+description: @cosine_135 が公務員試験のために昔作ったノートです。暇があればアップデートしたい。
 twitter:
   username: cosine_135
-  card: summary
 defaults:
   - scope:
       path: ""
     values:
-      image: https://pbs.twimg.com/profile_images/829256869051035649/KJdvlrfP_400x400.jpg
+      image: /img/icon.jpg
